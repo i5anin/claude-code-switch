@@ -1,5 +1,7 @@
 # Claude Code Switch (ccm)
 
+**ЦКП:** Переключение провайдера моделей Claude Code одной командой; копия стороннего инструмента.
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/foreveryh/claude-code-switch.svg)](https://github.com/foreveryh/claude-code-switch/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/foreveryh/claude-code-switch.svg)](https://github.com/foreveryh/claude-code-switch/issues)
